@@ -33,7 +33,11 @@ void LinearSearch()
 	int ctr; // Number of comparisons int item;
 	int item;
 
+	do
 	
+
+
+
 int main()
 {
     
